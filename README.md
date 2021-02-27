@@ -28,4 +28,4 @@ Let´s explain what each column means:
 
 
 In the data_analysis report you will see how basic conclusions are drawn based on their correlations and some self explanatory graphs.
-If you are reading this, use 
+If you are reading this, you may use this jupyter to draw your own conclusions about diamonds and their prices.
