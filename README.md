@@ -29,3 +29,10 @@ Let´s explain what each column means:
 
 In the data_analysis report you will see how basic conclusions are drawn based on their correlations and some self explanatory graphs.
 If you are reading this, you may use this jupyter to draw your own conclusions about diamonds and their prices.
+
+Bellow you can see the two links with tableau dashboards that I used in order to advise someone about what type of diamond they should buy in order to impress.
+Conclusion: If they are willing to spend over 15K, do so. Carats and volume increase exponentially while prices do not increase as much, when diamonds
+are over 3 carats.
+
+https://public.tableau.com/profile/jaime.vazquez1372#!/vizhome/DiamondDashboard1_16144194984010/Dashboard1?publish=yes
+https://public.tableau.com/profile/jaime.vazquez1372#!/vizhome/DiamondDashboard2/Dashboard2?publish=yes
